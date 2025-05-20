@@ -1,7 +1,7 @@
 streamlit==1.45.1
 tensorflow==2.14.0
 keras==2.14.0
-numpy==1.24.3
+numpy==1.23.5  # Try this version; adjust if needed
 opencv-python-headless
 pillow
 google-cloud-storage
