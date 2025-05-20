@@ -9,3 +9,4 @@ ipython==7.34.0
 Pillow==11.2.1
 streamlit==1.45.1
 pyngrok==7.2.8
+google-cloud-storage
