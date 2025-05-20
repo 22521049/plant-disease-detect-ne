@@ -1,6 +1,11 @@
-streamlit
-tensorflow
-pillow
-opencv-python-headless
-streamlit-webrtc
-numpy
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+opencv-python-headless==4.11.0.86 # Sử dụng phiên bản headless cho môi trường không có giao diện đồ họa như Colab
+tensorflow==2.18.0
+scikit-learn==1.5.0 # Phiên bản tương đương sklearn nếu bạn sử dụng scikit-learn
+ipython==7.34.0
+Pillow==11.2.1
+streamlit==1.45.1
+pyngrok==7.2.8
