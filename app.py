@@ -6,8 +6,9 @@ from PIL import Image
 
 # ========== CẤU HÌNH ==========
 IMG_SIZE = 224
-MODEL_PATH = "/content/plant_disease_model (5).h5"
-CLASS_INDICES_PATH = "/content/class_indices (3).json"
+MODEL_PATH = "plant_disease_model.h5"
+CLASS_INDICES_PATH = "class_indices.json"
+
 
 # ========== LOAD MODEL VÀ CLASS ==========
 @st.cache_resource
