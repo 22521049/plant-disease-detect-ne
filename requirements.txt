@@ -1,4 +1,5 @@
 streamlit==1.45.1
+streamlit-webrtc
 tensorflow==2.14.0
 keras==2.14.0
 numpy
